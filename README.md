@@ -1,5 +1,7 @@
 # OpenCorsairLink [![Build Status](https://travis-ci.com/audiohacked/OpenCorsairLink.svg?branch=testing)](https://travis-ci.com/audiohacked/OpenCorsairLink)
 
+Cloned from audiohacked/OpenCorsairLink and fixed #include <libusb-1.0/libusb.h>
+
 OpenCorsairLink is a status & control utility that interacts with CorsairLink products.
 
 ### Disclaimer
